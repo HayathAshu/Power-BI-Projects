@@ -19,7 +19,9 @@ This dashboard is intended for data analytics learning, portfolio development, a
  ├── amazon_prime_titles.csv                     # Dataset used for analysis
  ├── Amazon Prime Power BI Dashboard.pbix        # Power BI dashboard file
  ├── README.md                                   # Project documentation
- └── images/                                     # (Optional) dashboard screenshots
+ └── Prime Video.png/                            # Dashboard screenshots
+ └── Prime Video.mp4/                            # Dashboard Video
+ └── Prime Video logo.png/                       # Dashboard Logo
 ```
 
 ---
