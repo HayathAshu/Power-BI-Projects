@@ -57,9 +57,6 @@ Data was imported into Power BI using the API key + endpoint URL.
 - **:contentReference[oaicite:4]{index=4}** – Real-time weather forecasting data  
 - **:contentReference[oaicite:5]{index=5}** – Tutorial reference for project steps  
 
-YouTube tutorial followed:  
-https://www.youtube.com/watch?v=P8HB8dMfKNc  
-
 ---
 
 ## 📊 Dashboard Features
