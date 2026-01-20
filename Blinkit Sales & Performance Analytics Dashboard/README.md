@@ -37,7 +37,7 @@ These KPIs give a quick overview of overall business performance.
 > Shows overall sales performance with KPIs and filters.
 
 ```markdown
-![Blinkit Dashboard Overview](Blinkit Sales & Performance Analytics Dashboard/blinkit_dashboard.png)
+![Blinkit Dashboard Overview](Blinkit Sales & Performance Analytics Dashboard/blinkit_dashboard_pic.png)
 ```
 ---
 
